@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "142434808132",
+    "project_id": "intelligence-personal-advisor",
+    "storage_bucket": "intelligence-personal-advisor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142434808132:android:d8bfae2923d3d1552b6711",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMRt1UawxAG8LNGzh-aFwhOGrOzLCv370"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142434808132:android:33a672c4e602a29f2b6711",
+        "android_client_info": {
+          "package_name": "com.ipa.intelligencepersonaladvisor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMRt1UawxAG8LNGzh-aFwhOGrOzLCv370"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
